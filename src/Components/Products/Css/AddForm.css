@@ -1,0 +1,28 @@
+.product-add-form{
+    padding: 30px;
+    border-top: 5px solid grey;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .product-add-form input{
+    border-radius: 10px;
+    padding: 6px;
+    margin-top: 5px;
+    text-align: center;
+  }
+  .product-add-form button{
+    background: lightgreen;
+    color: white;
+    font-weight: bolder;
+  }
+
+  .product-add-form span{
+    color: white;
+    background: red;
+    padding: 3px;
+    font-weight: bolder;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 20px;
+  }

@@ -1,0 +1,12 @@
+.carousel{
+  height: 500px;
+}
+.carousel-item{
+  height: 500px;
+}
+.carousel-item div{
+  background: #223147;
+  border-radius: 200px;
+  margin-bottom: -10px;
+  box-shadow: 0px 5px 10px 10px grey;
+}

@@ -1,0 +1,47 @@
+/* nav{
+    display: flex;
+    flex-direction: column!important;
+    background: url('https://thumbs.dreamstime.com/z/banner-optical-shop-glasses-clinic-hand-draw-doodle-background-banner-optical-shop-glasses-clinic-hand-draw-doodle-148593301.jpg');
+    padding:0!important;
+  }
+  .header-top{
+    height: 100px;
+  }
+  .navnav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background: lightblue;
+    margin: 0!important;
+    padding: 10px;
+    font-weight: bold!important; 
+    background: #00d3f0;
+  }
+.navnav .nav-link{
+  color: white!important;
+}
+.navbar-brand img{
+  width: 100px;
+} */
+.row1{
+  background: #243349;
+}
+#topbar .nospace *{
+  display: inline;
+}
+#mainav ul{
+  width: 1000px;
+  display: flex;
+  flex-direction: row!important;
+  justify-content: space-around;
+  align-items: center;
+}
+#mainav ul li:last-of-type{
+  width: 300px;
+  display: flex!important;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#mainav ul li:last-of-type button{
+  height: 35px;
+}
